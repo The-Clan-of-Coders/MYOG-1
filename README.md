@@ -1,2 +1,2 @@
-# MYOG-1
+## MYOG 1
 Make Your Own Game - 1
